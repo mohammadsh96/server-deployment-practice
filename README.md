@@ -1,5 +1,6 @@
 # server-deployment-practice
-🔗[heroku app](https://mohammadsh9-server-deploy-prod.herokuapp.com/)✔️
+🔗[heroku app on main](https://mohammadsh9-server-deploy-prod.herokuapp.com/)✔️
+🔗[heroku app on dev](https://mohammadsh96-server-deploy-dev.herokuapp.com/)✔️
 🔗[GitHub Actions](https://github.com/mohammadsh96/server-deployment-practice/actions)✔️
 🔗[pull request](https://github.com/mohammadsh96/server-deployment-practice/pull/2)✔️
 
